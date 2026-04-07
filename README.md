@@ -22,7 +22,7 @@ Biomedical KGs like [The Monarch KG](https://monarchinitiative.org/), [ROBOKOP](
 
 ## Scoring Criteria
 
-![Scoring Rubric Figure](figures/scoring_framework_infographic.png)
+![Scoring Rubric Figure](figures/scoring_framework_infographic.jpg)
 
 See also: [detailed criteria figure](figures/scoring_rubric_figure.svg)
 
@@ -83,7 +83,7 @@ biomedical_kg_relevance_scoring/
 │   ├── pks_relevance_scores.csv       # Scored sources (91 PKS) with labels and comments
 │   └── PKS_Licensing_and_Scoring_Rubric.xlsx  # Original workbook (rubric + scores + licensing)
 └── figures/
-    ├── scoring_framework_infographic.png  # Gauge infographic: HIGH / MEDIUM / LOW label logic
+    ├── scoring_framework_infographic.jpg  # Gauge infographic: HIGH / MEDIUM / LOW label logic
     └── scoring_rubric_figure.svg          # Detailed criteria summary figure
 ```
 
