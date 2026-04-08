@@ -123,4 +123,4 @@ biomedical_kg_relevance_scoring/
 
 ## Citation / Contact
 
-Developed by Shilpa Sundar, PharmD, MPS (TISLab, Department of Genetics, UNC Chapel Hill).
+Developed by [Shilpa Sundar, PharmD, MPS](linkedin.com/in/drshilpasundar/?skipRedirect=true) (TISLab, Department of Genetics, UNC Chapel Hill).
